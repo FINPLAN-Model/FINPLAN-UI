@@ -24,6 +24,10 @@ To install the necessary dependencies:
 
 3. Install the downloaded package and follow the on-screen instructions.
 
+## Documentation
+
+The FINPLAN documentation is being updated, and the first version is accessible on [Zenodo](https://zenodo.org/records/10968558).
+
 ## Questions and Issues
 
 For troubleshooting model-related issues and discussions, please visit the [Energy Modelling Community Discussion Forum](https://forum.u4ria.org/). 
