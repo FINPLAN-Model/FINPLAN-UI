@@ -28,6 +28,10 @@ To install the necessary dependencies:
 
 The FINPLAN documentation is being updated, and the first version is accessible on [Zenodo](https://zenodo.org/records/10968558).
 
+## Self-learning and Training
+
+Self-learning materials for FINPLAN, including lectures, hands-on exercises, and quizzes, are freely available on [OpenLearn](https://www.open.edu/openlearncreate/course/view.php?id=13669). Additionally, there are capacity-building events such as the [Energy Modelling Platforms](https://climatecompatiblegrowth.com/energy-modelling-platform/) where FINPLAN is regularly taught. 
+
 ## Questions and Issues
 
 For troubleshooting model-related issues and discussions, please visit the [Energy Modelling Community Discussion Forum](https://forum.u4ria.org/). 
